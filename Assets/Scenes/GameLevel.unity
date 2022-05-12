@@ -1048,7 +1048,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -1213,7 +1213,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &490730250
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4074,14 +4074,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1591455413}
-  m_LocalRotation: {x: -0.0023126358, y: 0.008415804, z: 0.1277753, w: 0.9917647}
-  m_LocalPosition: {x: 26.1, y: -1.2, z: -0}
+  m_LocalRotation: {x: -0.0028789316, y: 0.008239284, z: 0.0601154, w: 0.9981533}
+  m_LocalPosition: {x: 26.15, y: -1.62, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 728014442}
   m_Father: {fileID: 0}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: -0.386, y: 0.923, z: 14.68}
+  m_LocalEulerAnglesHint: {x: -0.386, y: 0.923, z: 6.89}
 --- !u!1 &1596031928
 GameObject:
   m_ObjectHideFlags: 0
@@ -5396,7 +5396,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 20
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
